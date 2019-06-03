@@ -17,6 +17,7 @@ Repo | Description
 [nmos-mdns-bridge](https://github.com/bbc/nmos-mdns-bridge) | Zeroconf/mDNS bridge for NMOS service types
 [nmos-reverse-proxy](https://github.com/bbc/nmos-reverse-proxy) | Reverse proxy used for NMOS implementations
 [nmos-auth-server](https://github.com/bbc/nmos-auth-server) | BCP-003-02 Authorization Server
+[nmos-web-router](https://github.com/bbc/nmos-web-router) | Web-based IS-04 and IS-05 connection management client
 
 Currently these are all Python implementations, with Apache 2.0 licences. Further details are provided in the individual repositories.
 
